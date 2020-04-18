@@ -1,0 +1,12 @@
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Principal\Principal\bin\Debug\Principal.exe.config
+C:\Users\vinic\source\repos\Principal\Principal\bin\Debug\Principal.exe
+C:\Users\vinic\source\repos\Principal\Principal\bin\Debug\Principal.pdb
+C:\Users\vinic\source\repos\Principal\Principal\bin\Debug\encog-core-cs.dll
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.csproj.CopyComplete
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.exe
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.pdb
+C:\Users\vinic\source\repos\Principal\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
